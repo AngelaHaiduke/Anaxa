@@ -1,14 +1,14 @@
 body{
-    background-color: black;
-    color: rgb(125, 5, 5);
+    background-color: rgb(199, 184, 184);
+    color: rgb(212, 81, 81);
     margin: 0px;
 }
 
 header{
-    border-bottom: inset 3px rgb(231, 236, 93);
+    border-bottom: inset 3px rgb(13, 32, 206);
     padding: 15px;
     font-size: 30px;
-    color: rgb(240, 207, 16)
+    color: rgb(16, 106, 240)
 }
 
 h1{
