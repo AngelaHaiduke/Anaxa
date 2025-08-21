@@ -1,20 +1,20 @@
 body{
     background-color: rgb(199, 184, 184);
-    color: rgb(212, 81, 81);
+    color: rgb(54, 60, 116);
     margin: 0px;
 }
 
 header{
-    border-bottom: inset 3px rgb(13, 32, 206);
+    border-bottom: inset 3px rgb(76, 38, 99);
     padding: 15px;
     font-size: 30px;
-    color: rgb(16, 106, 240)
+    color: rgb(217, 224, 235)
 }
 
 h1{
     padding: 10px;
     font-size: 20px;
-    color: rgb(255, 13, 0)
+    color: rgb(145, 49, 89)
 }
 
 p{
