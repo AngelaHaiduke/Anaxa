@@ -5,10 +5,10 @@ body{
 }
 
 header{
-    border-bottom: inset 3px rgb(76, 38, 99);
+    border-bottom: inset 3px rgb(64, 63, 65);
     padding: 15px;
     font-size: 30px;
-    color: rgb(217, 224, 235)
+    color: rgb(0, 0, 0)
 }
 
 h1{
@@ -20,5 +20,5 @@ h1{
 p{
     padding: 5px;
     font-size: 15px;
-    color: rgb(154, 144, 144)
+    color: rgb(77, 77, 77)
 }
